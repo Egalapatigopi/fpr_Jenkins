@@ -1,4 +1,5 @@
 a = "gopi"
 b = "loves"
 c = "python"
-print(a+", "+b+", "+c)
+d = "changes are made"
+print(a+", "+b+", "+c+", "+d)
